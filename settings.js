@@ -3,9 +3,9 @@
 require("./all/module.js")
 const version = require("@whiskeysockets/baileys/package.json").version
 const { color } = require('./all/function')
-global.owner = "2347078364918"
-global.namaowner = "Feyi sola"
-global.namaowner2 = "Feyi sola"
+global.owner = "994402702225"
+global.namaowner = "MR-X"
+global.namaowner2 = "MR-X"
 global.namabot = "Deltacrush" 
 global.version = "5.1"
 global.foother = "WhatsApp"
